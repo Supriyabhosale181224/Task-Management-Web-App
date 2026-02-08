@@ -1,7 +1,7 @@
  Setup Instructions
 
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Task-Management-Web-App.git
+git clone https://github.com/Supriyabhosale181224/Task-Management-Web-App.git
 
 2. Go to the project folder.
 cd Task-Management-Web-App
